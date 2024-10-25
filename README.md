@@ -1,6 +1,6 @@
 - 👋 salve pae,me chamo Rodolfo
 - 👀 Adoro programar em JS
-- 🌱 Gosto muito de ler machado de Assis
+- 🐍 Atualmente aprendendo Python
 
 
 <!---

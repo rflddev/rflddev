@@ -15,4 +15,5 @@
 </div>
 
 [![rflddev github stats](https://github-readme-stats.vercel.app/api?username=rflddev&theme=dark&show_icons=true&count_private=true)](https://github.com/rflddev)
+[![rflddev language stats](https://github-readme-stats.vercel.app/api/top-langs?username=rflddev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2)
 <h3>Without followers, evil does not prosper - Mr. Spock</h3>

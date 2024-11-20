@@ -15,5 +15,5 @@
 </div>
 
 [![rflddev github stats](https://github-readme-stats.vercel.app/api?username=rflddev&theme=dark&show_icons=true&count_private=true)](https://github.com/rflddev)
-![rflddev language stats](https://github-readme-stats.vercel.app/api/top-langs?username=rflddev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2)
+![rflddev language stats](https://camo.githubusercontent.com/fd76b8cd17d8e9d0a9e05f9078e0a58fc91e41f980595875061b43432cb15a1b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d72666c64646576266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d6461726b26686964655f626f726465723d74727565266f726465723d32)
 
